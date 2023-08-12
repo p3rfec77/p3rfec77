@@ -6,7 +6,7 @@
 ### <div align="center">I'm Kirill, a frontend developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently finding a job and improving my skiils  
+- 🔭 I’m currently looking for a job and improving my skills  
   
 
 - 🌱 I’m currently learning Jest and Docker   
