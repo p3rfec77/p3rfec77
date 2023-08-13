@@ -1,22 +1,6 @@
-<div align="center">
-<img src="https://i0.wp.com/media.giphy.com/media/q8ld8Sk7WWyY0/giphy.gif?w=525&ssl=1" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Kirill, a frontend developer 👨‍💻</div>  
-  
-
-- 🔭 I’m currently looking for a job and improving my skills  
-  
-
-- 🌱 I’m currently learning Jest and Docker   
-  
-
-- 👀 my hobbies: 🎾 tennis, 🎮 computer games, ⛩️anime and k-pop  
-  
 
 <br/>  
-
 
 ## My Skill Set  
 <div align="center">  
